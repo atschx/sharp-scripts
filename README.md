@@ -1,2 +1,2 @@
 # sharp-scripts
-useful stuffs
+![daily-work](http://www.atschx.com/wp-content/uploads/2015/01/daily-work.jpg)
