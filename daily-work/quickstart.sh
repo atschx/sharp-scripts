@@ -4,4 +4,4 @@
 #
 echo "init default directory"
 mkdir buff 
-mkdir -p /data/webspps && mkdir -p /data/logs
+sudo mkdir -p /data/webspps && mkdir -p /data/logs
