@@ -1,2 +1,4 @@
 # sharp-scripts
-![daily-work](http://www.atschx.com/wp-content/uploads/2015/01/daily-work.jpg)
+
+> 汇总一些实用的脚本，一劳永逸。让工作自动化起来...
+
